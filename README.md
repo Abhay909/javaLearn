@@ -1,6 +1,6 @@
 # My Java Learning Journey
 
-Welcome to my GitHub repository! This is where I document my journey of learning Java through the "BrooCode" YouTube playlist and showcase my personal projects.
+Welcome to my GitHub repository! This is where I document my journey of learning Java through the "BroCode" YouTube playlist and showcase my personal projects.
 
 ## 🎥 BroCode YouTube Playlist
 
