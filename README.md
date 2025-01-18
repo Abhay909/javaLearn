@@ -11,7 +11,7 @@ I have been learning Java by following the [BroCode YouTube Playlist](https://yo
 Here are some of the personal projects I've worked on during my learning process:
 
 - **[Quiz Game](src/QuizGame.java)**: Simple quiz game.
-- **[Rock Paper Scissors](RockPaperScissors.java)**: A console game of rock paper scissors!
+- **[Rock Paper Scissors](src/RockPaperScissors.java)**: A console game of rock paper scissors!
 - **[Slot machine](src/slotMachine.java)**: A slot machine game!
 
 
