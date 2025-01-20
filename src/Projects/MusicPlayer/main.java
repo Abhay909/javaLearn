@@ -12,7 +12,8 @@ public class main {
         String filePath = "src/Projects/MusicPlayer/ActaNonVerba.wav";
         File file = new File(filePath);
 
-        try (Scanner scanner = new Scanner(System.in);AudioInputStream audioStream = AudioSystem.getAudioInputStream(file)) {
+        try (Scanner scanner = new Scanner(System.in);
+             AudioInputStream audioStream = AudioSystem.getAudioInputStream(file)) {
 
             Clip clip = AudioSystem.getClip();
             clip.open(audioStream);
