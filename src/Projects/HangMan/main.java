@@ -19,12 +19,19 @@ public class main {
 
         // Java Hangman Game
 
+        // File path of a text file
         String filePath = "src/Projects/HangMan/words.txt";
+
+        // create an arraylist for words from the txt
         ArrayList<String> words = new ArrayList<>();
 
+        // enclose everything in a try block for security reasons
+        // Using a buffer reader to read multiple lines of text in a txt file
         try(BufferedReader reader = new BufferedReader(new FileReader(filePath))) {
 
             String line;
+
+            // Trim any extra spaces
             while((line = reader.readLine()) != null) {
                 words.add(line.trim());
             }
