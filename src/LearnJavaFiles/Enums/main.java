@@ -1,5 +1,7 @@
 package LearnJavaFiles.Enums;
 
+import java.util.Scanner;
+
 public class main {
 
     public static void main(String[] args) {
@@ -9,6 +11,9 @@ public class main {
         //         More efficient with switches than Strings.
 
 
+        Scanner scanner = new Scanner(System.in);
+        System.out.print("Enter a day of the week: ");
+        String response = scanner.nextLine().toUpperCase();
 
 
 
