@@ -4,7 +4,7 @@ package LearnJavaFiles.generics;
 // Algebraical order
 public class Product<T, U>{
 
-    // The datatype of item is T
+    // The datatype of the item is T
     T item;
     U price;
 

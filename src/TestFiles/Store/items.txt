@@ -1,0 +1,108 @@
+apple
+banana
+orange
+grape
+pear
+peach
+plum
+mango
+kiwi
+pineapple
+watermelon
+strawberry
+blueberry
+raspberry
+blackberry
+cherry
+lemon
+lime
+coconut
+avocado
+carrot
+potato
+tomato
+onion
+garlic
+cucumber
+lettuce
+spinach
+broccoli
+cauliflower
+cabbage
+bell pepper
+zucchini
+eggplant
+corn
+peas
+green beans
+mushroom
+asparagus
+celery
+radish
+beet
+pumpkin
+squash
+ginger
+chili
+milk
+cheese
+butter
+yogurt
+bread
+rice
+pasta
+flour
+sugar
+salt
+pepper
+olive oil
+vegetable oil
+vinegar
+honey
+jam
+peanut butter
+chocolate
+cereal
+oats
+eggs
+chicken
+beef
+pork
+fish
+shrimp
+tofu
+beans
+lentils
+nuts
+seeds
+coffee
+tea
+juice
+soda
+water
+ice cream
+cookies
+chips
+popcorn
+crackers
+candy
+ketchup
+mustard
+mayonnaise
+soy sauce
+hot sauce
+barbecue sauce
+pickles
+olives
+butter
+baking powder
+baking soda
+yeast
+cinnamon
+vanilla extract
+paper towels
+toilet paper
+soap
+shampoo
+toothpaste
+detergent
