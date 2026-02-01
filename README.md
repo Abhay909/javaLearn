@@ -9,6 +9,7 @@ Welcome to my GitHub repository! This is where I document my journey of learning
 
 - Code snippets and projects from the **BroCode YouTube playlist**.
 - Personal projects and experiments
+- Files are in /src
 ---
 
 ## 🎥 BroCode YouTube Playlist
